@@ -1,5 +1,5 @@
 //index.js
-//获取应用实例
+//获取应用实例 提交码云测试
 var app = getApp()
 var bmap=require('../../utils/bmap-wx.js');
 var common=require('../../utils/common.js');
